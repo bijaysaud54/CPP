@@ -1,4 +1,4 @@
-#include<iostream>
+D#include<iostream>
 using namespace std;
 
 class Time
@@ -22,6 +22,7 @@ class Time
         cout<<hh<<":"<<mm<<":"<<ss<<endl;
     }
 };
+
 
 int main()
 {
