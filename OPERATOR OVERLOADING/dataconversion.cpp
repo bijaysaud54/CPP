@@ -1,6 +1,7 @@
 D#include<iostream>
 using namespace std;
 
+
 class Time
 {
     int hh, mm, ss;
