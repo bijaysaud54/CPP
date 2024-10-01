@@ -16,6 +16,5 @@ int main() {
     double m = 1.1, n = 2.2;
     swap(m, n);
     cout << "m: " << m << ", n: " << n << endl;
-
     return 0;
 }
